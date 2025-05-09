@@ -1,13 +1,12 @@
     .color-special {
-        background-color: #c3f8b6c9;
+        background-color:#e9ddc1;
     }
 
+.color-font {
+        color: 	#5E6B4D ;
+    }
 
     footer {
         padding-top: 1rem;
-        background-color: #3f5334;
-      }
-
-.color-footer {
-    background-color: #ffffff;
-}
+        background-color: #685a42;
+    }
